@@ -37,4 +37,18 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ## Syllabus
 
-tktk
+**Class 1: Start here!** (date tk)
+* Introductions
+* Data and visual stories, and what makes a good one
+* Overview of policies, syllabus and goals
+* Github and markdown
+* In-class assignment is [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment1.md).
+
+**Class 2: The lifecycle of a data story** (date tk)
+* Students to present data stories
+* Starting with a question
+* Finding the data
+* Interviewing the data
+
+
+
