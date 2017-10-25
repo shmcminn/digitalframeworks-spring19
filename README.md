@@ -67,9 +67,9 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Why campaign finance
 * Digging into the data
 
-**Class 6: Data visualization** (date tk)
+**Class 6: Storytelling and the design process and final project pitches** (date tk)
 
-**Class 7: Storytelling and the design process** (date tk)
+**Class 7: Data visualization** (date tk)
 
 **Class 8: Cryptography, security, hacking and data breaches** (date tk)
 
