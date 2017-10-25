@@ -51,4 +51,30 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Interviewing the data
 * Discussion of final projects
 
+**Class 3: Using a dataset** (date tk)
+* Students to present data stories
+* Data formats
+* Spreadsheets!
 
+**Class 4: Collecting, cleaning, collaborating** (date tk)
+* Students to present data stories
+* Dealing with messy data
+* Can I trust this dataset?
+* Collecting your own data
+
+**Class 5: A data example: reporting on campaign finance** (date tk)
+* Students present data stories
+* Why campaign finance
+* Digging into the data
+
+**Class 6: Data visualization** (date tk)
+
+**Class 7: Storytelling and the design process** (date tk)
+
+**Class 8: Cryptography, security, hacking and data breaches** (date tk)
+
+**Class 9: While I've got you here...** (date tk)
+A potpourri of things I wish reporters knew!
+
+**Class 10: Project presentations, jobs** (date tk)
+We'll all hear about your final project!
