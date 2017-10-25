@@ -49,6 +49,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Starting with a question
 * Finding the data
 * Interviewing the data
-
+* Discussion of final projects
 
 
