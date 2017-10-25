@@ -30,3 +30,7 @@ Markdown is a markup language that plays particularly well with github, producin
    * Hyperlinked text
 1. Submit this assignment in your digitalframeworks repository as assignment1.md.
 1. I strongly encourage you to complete this assignment in class. Submitting the first assignment is the hardest, and I'm here to help if you do it in class. I can't help you if you email me 20 minutes before deadline.
+
+## Reminder
+
+At the beginning of each class, I will call on 1-2 students to share a data story they noticed during the week, so keep your eyes out and come to class prepared with at least one link to a data story.
