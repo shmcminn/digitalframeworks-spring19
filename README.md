@@ -68,13 +68,23 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Digging into the data
 
 **Class 6: Storytelling and the design process and final project pitches** (date tk)
+* Case study: The CBC Missing and Murdered Indigenous Women Project
+* Pitch session! Do a two-minute pitch of your final project.
 
 **Class 7: Data visualization** (date tk)
+* Bad charts
+* Making better charts on deadline
 
 **Class 8: Cryptography, security, hacking and data breaches** (date tk)
+* What are cryptography and encryption?
+* Personal security
+* Reporting on hacking and data breaches
 
 **Class 9: While I've got you here...** (date tk)
-A potpourri of things I wish reporters knew!
+A potpourri of things I wish reporters knew, including but not limited to:
+* The guts of the Internet (and how this helps you as a reporter or researcher)
+* Voting and elections data
+* tktk
 
 **Class 10: Project presentations, jobs** (date tk)
 We'll all hear about your final project!
