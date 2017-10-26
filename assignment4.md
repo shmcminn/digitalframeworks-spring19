@@ -23,15 +23,16 @@ Think about an area you're interested in, and come up with a dataset you wish ex
 Sarah Huckabee Sanders conducts press conferences for the Trump administration. She has a varied wardrobe, and I wonder if there are any colors she prefers. For example, does she avoid blue, since it's typically associated with Democrats? I'm interested in this dataset because I'm curious whether there are any patterns in her wardrobe.
 
 Here are the features I'll be collecting, and an explanation of why:
-* The color of Sanders' shirt or jacket (the outermost layer when there are multiple layers)
+* The color of Sanders' shirt or jacket (the outermost layer when there are multiple layers) (or N/A if Sanders did not conduct the press conference)
 * The date of the press conference
 * The time of the press conference (start time)
 * The location of the press conference (I'm curious whether this makes any difference - does she dress differently in the press room than elsewhere?)
 * The outdoor temperature at the time of the press conference (this might be a counfounding factor, for example if she is more likely to be wearing a winter jacket)
+* A list of other people who spoke from the podium at the press conference, separated by semicolons
 * A link to an image of Sanders at the press conference from one of the following news sources: NYT, WaPo, WSJ, Politico, CNN.
 
 I will collect the data by watching part of the press conference and recording this information. I will use weather.gov to find the temperature in the city where the press conference is taking place. I will find the image by looking at the news sources cited above.
 
-Color | Date | Time | Location | Temperature | Image link
----- | ----- | ---- | -------- | ----------- | --------
-tk | tk | tk | tk | tk | tk
+Color | Date | Time | Location | Temperature | Other speakers | Image link
+---- | ----- | ---- | -------- | ----------- | -------------- | ----------
+tk | tk | tk | tk | tk | tk | tk
