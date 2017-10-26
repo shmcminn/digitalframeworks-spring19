@@ -50,41 +50,49 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Finding the data
 * Interviewing the data
 * Discussion of final projects
+* In-class assignment tk
 
 **Class 3: Using a dataset** (date tk)
 * Students to present data stories
 * Data formats
 * Spreadsheets!
+* In-class assignment tk
 
 **Class 4: Collecting, cleaning, collaborating** (date tk)
 * Students to present data stories
 * Dealing with messy data
 * Can I trust this dataset?
 * Collecting your own data
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
 
 **Class 5: A data example: reporting on campaign finance** (date tk)
 * Students present data stories
 * Why campaign finance
 * Digging into the data
+* In-class assignment tk
 
 **Class 6: Storytelling and the design process and final project pitches** (date tk)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
 * Pitch session! Do a two-minute pitch of your final project.
+* In-class assignment tk
 
 **Class 7: Data visualization** (date tk)
 * Bad charts
 * Making better charts on deadline
+* In-class assignment tk
 
 **Class 8: Cryptography, security, hacking and data breaches** (date tk)
 * What are cryptography and encryption?
 * Personal security
 * Reporting on hacking and data breaches
+* In-class assignment tk
 
 **Class 9: While I've got you here...** (date tk)
 A potpourri of things I wish reporters knew, including but not limited to:
 * The guts of the Internet (and how this helps you as a reporter or researcher)
 * Voting and elections data
 * tktk
+* In-class assignment tk
 
 **Class 10: Project presentations, jobs** (date tk)
 We'll all hear about your final project!
