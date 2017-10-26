@@ -1,0 +1,37 @@
+# Assignment 4: Collecting your own data.
+
+Some great stories come out of reporters collecting their own datasets. Here are some examples:
+* [Governors with very low approval ratings](https://fivethirtyeight.com/features/chris-christie-is-still-more-popular-than-governors-who-were-literally-criminals/)
+* [Snap counts for various running backs](https://github.com/brentschwartz/digital-frameworks-hw/blob/master/finalproject.md), by a former Digital Frameworks student
+* [Every Trump tweet insulting anything](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
+* [White House visitors](https://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
+* [Emergency room bills](https://erbills.vox.com/)
+
+## Assignment
+
+Think about an area you're interested in, and come up with a dataset you wish existed. Then submit the following:
+
+* A description of the question you're curious about
+* A list of the things you want to know about any data point
+* An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves staking something out, just tell me how you would do it).
+* A table including at least two data points in this dataset
+
+## Can we have an example?
+
+### Sure, but it's kind of a silly one.
+
+Sarah Huckabee Sanders conducts press conferences for the Trump administration. She has a varied wardrobe, and I wonder if there are any colors she prefers. For example, does she avoid blue, since it's typically associated with Democrats? I'm interested in this dataset because I'm curious whether there are any patterns in her wardrobe.
+
+Here are the features I'll be collecting, and an explanation of why:
+* The color of Sanders' shirt or jacket (the outermost layer when there are multiple layers)
+* The date of the press conference
+* The time of the press conference (start time)
+* The location of the press conference (I'm curious whether this makes any difference - does she dress differently in the press room than elsewhere?)
+* The outdoor temperature at the time of the press conference (this might be a counfounding factor, for example if she is more likely to be wearing a winter jacket)
+* A link to an image of Sanders at the press conference from one of the following news sources: NYT, WaPo, WSJ, Politico, CNN.
+
+I will collect the data by watching part of the press conference and recording this information. I will use weather.gov to find the temperature in the city where the press conference is taking place. I will find the image by looking at the news sources cited above.
+
+Color | Date | Time | Location | Temperature | Image link
+---- | ----- | ---- | -------- | ----------- | --------
+tk | tk | tk | tk | tk | tk
