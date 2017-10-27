@@ -70,7 +70,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Students present data stories
 * Why campaign finance
 * Digging into the data
-* In-class assignment tk
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
 
 **Class 6: Storytelling and the design process and final project pitches** (date tk)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
