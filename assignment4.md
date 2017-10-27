@@ -11,7 +11,7 @@ Some great stories come out of reporters collecting their own datasets. Here are
 
 Think about an area you're interested in, and come up with a dataset you wish existed. Then submit the following:
 
-* A description of the question you're curious about
+* A description of the question you're curious about, and an explanation about how this data could turn into a story.
 * A list of the things you want to know about any data point
 * An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves staking something out, just tell me how you would do it).
 * A table including at least two data points in this dataset
@@ -20,7 +20,7 @@ Think about an area you're interested in, and come up with a dataset you wish ex
 
 ### Sure, but it's kind of a silly one.
 
-Sarah Huckabee Sanders conducts press conferences for the Trump administration. She has a varied wardrobe, and I wonder if there are any colors she prefers. For example, does she avoid blue, since it's typically associated with Democrats? I'm interested in this dataset because I'm curious whether there are any patterns in her wardrobe.
+Sarah Huckabee Sanders conducts press conferences for the Trump administration. She has a varied wardrobe, and I wonder if there are any colors she prefers. For example, does she avoid blue, since it's typically associated with Democrats? Since the press secretary is the public face of the White House, I'm interested in whether there's a style story related to her fashion decisions.
 
 Here are the features I'll be collecting, and an explanation of why:
 * The color of Sanders' shirt or jacket (the outermost layer when there are multiple layers) (or N/A if Sanders did not conduct the press conference)
