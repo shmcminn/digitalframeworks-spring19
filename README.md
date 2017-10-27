@@ -58,7 +58,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Dealing with messy data
 * Can I trust this dataset?
 * Collecting your own data
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment3.md)
 
 **Class 4: Using a dataset** (date tk)
 * Students to present data stories
