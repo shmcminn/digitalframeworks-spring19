@@ -1,4 +1,4 @@
-# Assignment 4: Collecting your own data.
+# Assignment 3: Collecting your own data.
 
 Some great stories come out of reporters collecting their own datasets. Here are some examples:
 * [Governors with very low approval ratings](https://fivethirtyeight.com/features/chris-christie-is-still-more-popular-than-governors-who-were-literally-criminals/)
