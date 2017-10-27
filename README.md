@@ -53,18 +53,18 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Discussion of final projects
 * In-class assignment tk
 
-**Class 3: Using a dataset** (date tk)
-* Students to present data stories
-* Data formats
-* Spreadsheets!
-* In-class assignment tk
-
-**Class 4: Collecting, cleaning, collaborating** (date tk)
+**Class 3: Collecting, cleaning, collaborating** (date tk)
 * Students to present data stories
 * Dealing with messy data
 * Can I trust this dataset?
 * Collecting your own data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
+
+**Class 4: Using a dataset** (date tk)
+* Students to present data stories
+* Data formats
+* Spreadsheets!
+* In-class assignment tk
 
 **Class 5: A data example: reporting on campaign finance** (date tk)
 * Students present data stories
