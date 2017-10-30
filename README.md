@@ -38,6 +38,8 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ## Syllabus
 
+Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1td96LXZwOEZzYnVpa0U?usp=sharing)
+
 **Class 1: Start here!** (date tk)
 * Introductions
 * Data and visual stories, and what makes a good one
