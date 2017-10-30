@@ -1,6 +1,6 @@
 # Assignment 5
 
-Your editor just noticed campaign finance reports for the past quarter are out and wants some kind of story. Poke around and find something interesting, relevant or fun, and write a pitch. Include some examples (could be a list or table) of specifics you'd like to include.
+Your editor just noticed campaign finance reports for the past quarter are out and thinks the readers will be interested in a story based on the filings. Poke around and find something interesting, relevant or fun, and write a pitch. Include some examples (could be a list or table) of specifics you'd like to include.
 
 You can pick any subject area (does not have to be your actual subject area of preference).
 
