@@ -62,40 +62,40 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Collecting your own data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment3.md)
 
-**Class 4: Using a dataset** (date tk)
+**Class 4: Using a dataset** (April 25)
 * Students to present data stories
 * Data formats
 * Spreadsheets!
 * In-class assignment tk
 
-**Class 5: A data example: reporting on campaign finance** (April 25)
+**Class 5: A data example: reporting on campaign finance** (May 2)
 * Students present data stories
 * Why campaign finance
 * Digging into the data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
 
-**Class 6: Storytelling and the design process and final project pitches** (May 2)
+**Class 6: Storytelling and the design process and final project pitches** (May 9)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
 * Pitch session! Do a two-minute pitch of your final project.
 * In-class assignment tk
 
-**Class 7: Data visualization** (May 9)
+**Class 7: Data visualization** (May 16)
 * Bad charts
 * Making better charts on deadline
 * In-class assignment tk
 
-**Class 8: Cryptography, security, hacking and data breaches** (May 16)
+**Class 8: Cryptography, security, hacking and data breaches** (May 23)
 * What are cryptography and encryption?
 * Personal security
 * Reporting on hacking and data breaches
 * In-class assignment tk
 
-**Class 9: While I've got you here...** (May 23)
+**Class 9: While I've got you here...** (May 30)
 A potpourri of things I wish reporters knew, including but not limited to:
 * The guts of the Internet (and how this helps you as a reporter or researcher)
 * Voting and elections data
 * tktk
 * In-class assignment tk
 
-**Class 10: Project presentations, jobs** (May 30)
+**Class 10: Project presentations, jobs** (June 6)
 We'll all hear about your final project!
