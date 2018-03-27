@@ -6,7 +6,7 @@
 
 **Contact**: rshorey@gmail.com for fastest response
 
-**Class time**: TBD
+**Class time**: 6pm-9pm, wednesdays
 
 **Office hours**: By appointment
 
@@ -17,7 +17,7 @@
 ### Expectations
 
 * Come to class or let me know if you can't make it
-* Complete in-class exercises either in class or as homework due before the next class
+* Complete in-class exercises either in class or as homework due before the next class. Late assignments will not be accepted. They are in-class assignments, turning them in before the next class is already a one-week grace period.
 * Consume the news every week, and come to class with at least 1 story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
 * Complete a final project, which will be a 800-1000 word story based substantially on data. This includes a brief memo due halfway through the quarter giving me a status update about what you intend to focus on.
 * Unless otherwise specified, assignments including the final project should be written in complete sentences and paragraphs (not fragments, notes or bulletpoints)
@@ -40,7 +40,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1td96LXZwOEZzYnVpa0U?usp=sharing)
 
-**Class 1: Start here!** (April 4)
+**Class 1: Start here!** (April 4) [slides](https://docs.google.com/presentation/d/1w1KgKW5QawM-j1z4dM8_Cbt_LZufJ4UrO_OXu8E48zA/edit#slide=id.g29ce7ef821_0_83) 
 * Introductions
 * Data and visual stories, and what makes a good one
 * Overview of policies, syllabus and goals
