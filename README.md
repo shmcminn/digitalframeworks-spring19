@@ -40,14 +40,14 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1td96LXZwOEZzYnVpa0U?usp=sharing)
 
-**Class 1: Start here!** (date tk)
+**Class 1: Start here!** (April 4)
 * Introductions
 * Data and visual stories, and what makes a good one
 * Overview of policies, syllabus and goals
 * Github and markdown
 * In-class assignment is [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment1.md).
 
-**Class 2: The lifecycle of a data story** (date tk)
+**Class 2: The lifecycle of a data story** (April 11)
 * Students to present data stories
 * Starting with a question
 * Finding the data
@@ -55,7 +55,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Discussion of final projects
 * In-class assignment tk
 
-**Class 3: Collecting, cleaning, collaborating** (date tk)
+**Class 3: Collecting, cleaning, collaborating** (April 18)
 * Students to present data stories
 * Dealing with messy data
 * Can I trust this dataset?
@@ -68,34 +68,34 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Spreadsheets!
 * In-class assignment tk
 
-**Class 5: A data example: reporting on campaign finance** (date tk)
+**Class 5: A data example: reporting on campaign finance** (April 25)
 * Students present data stories
 * Why campaign finance
 * Digging into the data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
 
-**Class 6: Storytelling and the design process and final project pitches** (date tk)
+**Class 6: Storytelling and the design process and final project pitches** (May 2)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
 * Pitch session! Do a two-minute pitch of your final project.
 * In-class assignment tk
 
-**Class 7: Data visualization** (date tk)
+**Class 7: Data visualization** (May 9)
 * Bad charts
 * Making better charts on deadline
 * In-class assignment tk
 
-**Class 8: Cryptography, security, hacking and data breaches** (date tk)
+**Class 8: Cryptography, security, hacking and data breaches** (May 16)
 * What are cryptography and encryption?
 * Personal security
 * Reporting on hacking and data breaches
 * In-class assignment tk
 
-**Class 9: While I've got you here...** (date tk)
+**Class 9: While I've got you here...** (May 23)
 A potpourri of things I wish reporters knew, including but not limited to:
 * The guts of the Internet (and how this helps you as a reporter or researcher)
 * Voting and elections data
 * tktk
 * In-class assignment tk
 
-**Class 10: Project presentations, jobs** (date tk)
+**Class 10: Project presentations, jobs** (May 30)
 We'll all hear about your final project!
