@@ -10,6 +10,8 @@
 
 **Office hours**: By appointment
 
+**Syllabus and assignments**: https://github.com/rshorey/digitalframeworks-spring18
+
 **Description**: The goal of this class is to give you a background for telling stories using data and technology as reporting tools. By the end of this class, you should be able to find datasets relevant to a story you're reporting, process and clean them up, use those datasets to answer questions, understand the limitations and caveats of a dataset, and tell a story using data.
 
 ## Policies
