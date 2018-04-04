@@ -20,6 +20,7 @@
 
 * Come to class or let me know if you can't make it
 * Complete in-class exercises either in class or as homework due before the next class. Late assignments will not be accepted. They are in-class assignments, turning them in before the next class is already a one-week grace period.
+* Submit assignments on github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class with at least 1 story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
 * Complete a final project, which will be a 800-1000 word story based substantially on data. This includes a brief memo due halfway through the quarter giving me a status update about what you intend to focus on.
 * Unless otherwise specified, assignments including the final project should be written in complete sentences and paragraphs (not fragments, notes or bulletpoints)
