@@ -30,7 +30,7 @@ Note that there will not be stand-alone homework outside of the in-class exercis
 
 Your grade will be made up of three components:
 
-* 20%: Class attendence and participation, including presenting data stories when I call on you to do so.
+* 20%: Class attendance and participation, including presenting data stories when I call on you to do so.
 * 50%: In-class projects (if you do not finish them or do not make it to class, you need to do these as homework)
 * 30%: Final project, including a midterm checkin.
 
