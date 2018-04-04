@@ -1,4 +1,4 @@
-# Digital Frameworks Fall 2018
+# Digital Frameworks Spring 2018
 
 ## Details
 
