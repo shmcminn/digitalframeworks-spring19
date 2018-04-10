@@ -50,13 +50,13 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Github and markdown
 * In-class assignment is [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment1.md).
 
-**Class 2: The lifecycle of a data story** (April 11)
+**Class 2: The lifecycle of a data story** (April 11) [slides](https://docs.google.com/presentation/d/13Kl7LbIRFM8mXHaxjCWG4NTORuZYAgz8k-w7Hxq8Uec/edit#slide=id.g369a654678_0_159)
 * Students to present data stories
 * Starting with a question
 * Finding the data
 * Interviewing the data
 * Discussion of final projects
-* In-class assignment tk
+* In-class assignment
 
 **Class 3: Collecting, cleaning, collaborating** (April 18)
 * Students to present data stories
