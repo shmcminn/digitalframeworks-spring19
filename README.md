@@ -61,7 +61,6 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 **Class 3: Collecting, cleaning, collaborating** (April 18)
 * Students to present data stories
 * Dealing with messy data
-* Can I trust this dataset?
 * Collecting your own data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment3.md)
 
