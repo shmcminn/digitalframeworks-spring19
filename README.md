@@ -55,7 +55,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Starting with a question
 * Finding the data
 * Interviewing the data
-* Discussion of final projects
+* Discussion of final projects, details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment2.md)
 
 **Class 3: Collecting, cleaning, collaborating** (April 18)
@@ -78,7 +78,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 
 **Class 6: Storytelling and the design process and final project pitches** (May 9)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
-* Pitch session! Do a two-minute pitch of your final project.
+* Pitch session! Do a two-minute pitch of your final project. Final project details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
 * In-class assignment tk
 
 **Class 7: Data visualization** (May 16)
@@ -100,4 +100,4 @@ A potpourri of things I wish reporters knew, including but not limited to:
 * In-class assignment tk
 
 **Class 10: Project presentations, jobs** (June 6)
-We'll all hear about your final project!
+We'll all hear about your final project! Details about final projects [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
