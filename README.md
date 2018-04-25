@@ -68,7 +68,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Students to present data stories
 * Data formats
 * Spreadsheets!
-* In-class assignment tk
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
 
 **Class 5: A data example: reporting on campaign finance** (May 2)
 * Students present data stories
