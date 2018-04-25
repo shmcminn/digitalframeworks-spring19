@@ -1,8 +1,8 @@
 # Tell me something interesting
 
-Unlike previous US Presidents, Trump did not divest from his businesses before assuming office. Ethics organizations have as a consequence raised questions about how he may be benefiting financially from his presidency. We can't track all payments to his businesses, but due to campaign finance reporting requirements, we can track ones made by candidates or PACS. [Here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/trump_expenditures.csv) is a csv of expenditures from entities tracked by the FEC to entities that came up when I searched for the word "Trump". Please note that this is raw, real-world data that has not been cleaned up (well, not much). You should inspect the data carefully and clean it up if necessary.
+Unlike previous US Presidents, Trump did not divest from his businesses before assuming office. Ethics organizations have as a consequence raised questions about how he may be benefiting financially from his presidency. We can't track all payments to his businesses, but due to campaign finance reporting requirements, we can track ones made by candidates or PACS. [Here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/trump_expenditures.csv) is a csv of expenditures from entities tracked by the FEC to entities that came up when I searched for the word "Trump" for expenditures filed in 2017 or 2018. Please note that this is raw, real-world data that has not been cleaned up (well, not much). You should inspect the data carefully and clean it up if necessary.
 
-Find something interesting in this data, and write 300 words about it.
+Find something interesting in this data, and write 300 words about it. It must be something that requires more than one row of data. So just finding a single payment is not sufficient for this assignment, please do some computation or aggregation.
 
 Please load the data in a google sheet and do your calculations there. Link the sheet at the bottom of your story.
 
