@@ -64,7 +64,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Collecting your own data
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment3.md)
 
-**Class 4: Using a dataset** (April 25)
+**Class 4: Using a dataset** (April 25) [slides](https://docs.google.com/presentation/d/1KO-B4E-x4ccdqlEc7fizhLuDGojOiQlIkgB28LSbqPk/edit#slide=id.g38d3877eff_1_113)
 * Students to present data stories
 * Data formats
 * Spreadsheets!
