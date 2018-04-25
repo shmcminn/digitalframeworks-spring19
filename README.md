@@ -67,7 +67,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 **Class 4: Using a dataset** (April 25) [slides](https://docs.google.com/presentation/d/1KO-B4E-x4ccdqlEc7fizhLuDGojOiQlIkgB28LSbqPk/edit#slide=id.g38d3877eff_1_113)
 * Students to present data stories
 * Data formats
-* Spreadsheets!
+* Spreadsheets! Example from class [here](https://docs.google.com/spreadsheets/d/1krtGpZJap99u1dZFlmnSYpNzUFCGn2n6OmpOYWOCvqk/edit#gid=0)
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
 
 **Class 5: A data example: reporting on campaign finance** (May 2)
