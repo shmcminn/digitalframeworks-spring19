@@ -74,7 +74,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Students present data stories
 * Why campaign finance
 * Digging into the data
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
+* In-class assignment: no assignment this week. But recall that you have to pitch your final project next week! If you have questions or ideas you want to run by me, I'll be around for a little while after class.
 
 **Class 6: Storytelling and the design process and final project pitches** (May 9)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
