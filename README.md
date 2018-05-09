@@ -79,7 +79,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 **Class 6: Storytelling and the design process and final project pitches** (May 9)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
 * Pitch session! Do a two-minute pitch of your final project. Final project details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
-* In-class assignment tk
+* No assignment!
 
 **Class 7: Data visualization** (May 16)
 * Bad charts
@@ -87,6 +87,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * In-class assignment tk
 
 **Class 8: Cryptography, security, hacking and data breaches** (May 23)
+* Guest: Nadja Popovich, NYT Climate team graphics editor
 * What are cryptography and encryption?
 * Personal security
 * Reporting on hacking and data breaches
