@@ -84,7 +84,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 **Class 7: Data visualization** (May 16)
 * Bad charts
 * Making better charts on deadline
-* In-class assignment tk
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
 
 **Class 8: Cryptography, security, hacking and data breaches** (May 23)
 * Guest: Nadja Popovich, NYT Climate team graphics editor
