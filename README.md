@@ -81,7 +81,7 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * Pitch session! Do a two-minute pitch of your final project. Final project details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
 * No assignment!
 
-**Class 7: Data visualization** (May 16)
+**Class 7: Data visualization** (May 16) [slides](https://docs.google.com/presentation/d/1Le43W6Y5ZIzbJ9YTKyjO3rod29g5geqKG9XO1fNp7RA/edit)
 * Bad charts
 * Making better charts on deadline
 * In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
