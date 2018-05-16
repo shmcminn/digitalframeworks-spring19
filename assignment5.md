@@ -14,6 +14,8 @@ Find a dataset that interests you and make a graphic using google sheets, quartz
 
 `![title for your chart](link to your chart right here on github)`
 
+NOTE carefully the `!` at the beginning of that line!!!
+
 Here's a real example with a chart I made:
 ![OR primary candidates](https://github.com/rshorey/digitalframeworks-spring18/blob/master/chart.png)
 
