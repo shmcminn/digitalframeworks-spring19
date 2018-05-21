@@ -1,16 +1,16 @@
-# Digital Frameworks Spring 2018
+# Digital Frameworks Summer 2018
 
 ## Details
 
-**Instructor**: Rachel Shorey (please call me Rachel)
+**Instructor**: Sean McMinn
 
-**Contact**: rshorey@gmail.com for fastest response
+**Contact**: seanpm92@gmail.com for fastest response
 
-**Class time**: 6pm-9pm, wednesdays
+**Class time**: 6pm-9pm, Wednesdays
 
 **Office hours**: By appointment
 
-**Syllabus and assignments**: https://github.com/rshorey/digitalframeworks-spring18
+**Syllabus and assignments**: TKTK
 
 **Description**: The goal of this class is to give you a background for telling stories using data and technology as reporting tools. By the end of this class, you should be able to find datasets relevant to a story you're reporting, process and clean them up, use those datasets to answer questions, understand the limitations and caveats of a dataset, and tell a story using data.
 
@@ -22,7 +22,7 @@
 * Complete in-class exercises either in class or as homework due before the next class. Late assignments will not be accepted. They are in-class assignments, turning them in before the next class is already a one-week grace period.
 * Submit assignments on github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class with at least 1 story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
-* Complete a final project, which will be a 800-1000 word story based substantially on data. This includes a brief memo due halfway through the quarter giving me a status update about what you intend to focus on.
+* Complete a final project, which will be a 800-1000 word story with graphics, based substantially on data. This includes a brief memo due halfway through the quarter giving me a status update about what you intend to focus on.
 * Unless otherwise specified, assignments including the final project should be written in complete sentences and paragraphs (not fragments, notes or bulletpoints)
 
 Note that there will not be stand-alone homework outside of the in-class exercises which are due before the next class.
@@ -31,17 +31,17 @@ Note that there will not be stand-alone homework outside of the in-class exercis
 
 Your grade will be made up of three components:
 
-* 20%: Class attendance and participation, including presenting data stories when I call on you to do so.
-* 50%: In-class projects (if you do not finish them or do not make it to class, you need to do these as homework)
-* 30%: Final project, including a midterm checkin.
+* 20%: Class attendance and participation, including presenting data stories when I call on you to do so
+* 50%: In-class assignments (if you do not finish them or do not make it to class, you need to do these as homework)
+* 30%: Final project, including a midterm checkin
 
 ### Collaboration
 
-Students are encouraged to discuss assignments. For the most part, you will be working on different things, so talking about your work should not be a problem. Whiteboarding your way through a sticky problem with a friend or looking online for answers to technical questions are encouraged (programmers do that all the time!) Your final work, however, must be entirely your own. A good rule of thumb is that no one else should take over your keyboard while completing an assignment.
+Students are encouraged to discuss assignments. For the most part, you will be working on different things, so talking about your work should not be a problem. Whiteboarding your way through a sticky problem with a friend or looking online for answers to technical questions are encouraged (programmers do that all the time!). Your final work, however, must be entirely your own. A good rule of thumb is that no one else should take over your keyboard while completing an assignment.
 
 ## Syllabus
 
-Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1td96LXZwOEZzYnVpa0U?usp=sharing)
+Class slides are located here. TKTK
 
 **Class 1: Start here!** (April 4) [slides](https://docs.google.com/presentation/d/1w1KgKW5QawM-j1z4dM8_Cbt_LZufJ4UrO_OXu8E48zA/edit#slide=id.g29ce7ef821_0_83) 
 * Introductions
