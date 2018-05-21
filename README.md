@@ -74,19 +74,20 @@ Class slides are located here. TKTK
 * Students present data stories
 * Why campaign finance
 * Digging into the data
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
+* In-class assignment: no assignment this week. But recall that you have to pitch your final project next week! If you have questions or ideas you want to run by me, I'll be around for a little while after class.
 
 **Class 6: Storytelling and the design process and final project pitches** (May 9)
 * Case study: The CBC Missing and Murdered Indigenous Women Project
 * Pitch session! Do a two-minute pitch of your final project. Final project details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
-* In-class assignment tk
+* No assignment!
 
-**Class 7: Data visualization** (May 16)
+**Class 7: Data visualization** (May 16) [slides](https://docs.google.com/presentation/d/1Le43W6Y5ZIzbJ9YTKyjO3rod29g5geqKG9XO1fNp7RA/edit)
 * Bad charts
 * Making better charts on deadline
-* In-class assignment tk
+* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
 
 **Class 8: Cryptography, security, hacking and data breaches** (May 23)
+* Guest: Nadja Popovich, NYT Climate team graphics editor
 * What are cryptography and encryption?
 * Personal security
 * Reporting on hacking and data breaches
