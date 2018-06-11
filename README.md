@@ -12,7 +12,7 @@
 
 **Syllabus and assignments**: TKTK
 
-**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers. By the end of this course, you should:
+**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
 * Process and clean data
@@ -29,10 +29,10 @@ Much of this class (and its syllabus) is based on Rachel Shorey's Summer 2018 Di
 ### Expectations
 
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise specified.
-* Complete in-class exercises either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Wednesdays, unless otherwise stated.
+* Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Wednesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due. 
 * Submit assignments on github (instructions in first lecture) as specified in the assignment.
-* Consume the news every week, and come to class with at least 1 story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
+* Consume the news every week, and come to class with at least one story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
 * Complete a final project, which will be a 800-1000 word story with graphics, based substantially on data. 
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 
@@ -126,4 +126,4 @@ Class slides are located here. TKTK
 
 **Bonus: Mapping, campaign finance and other things smart people know more about than I do**
 * I won't be here for the last class so ... ? 
-* **Extra credit assignment doing something** 
+* **Extra credit assignment** File a publishable story (at least 400 words) or visualization based on something you learned in today's lesson. This can increase your grade by a maximum of 2% pts.
