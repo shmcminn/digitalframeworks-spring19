@@ -4,7 +4,7 @@
 
 **Instructor**: Sean McMinn
 
-**Contact**: seanpm92@gmail.com for fastest response
+**Contact**: sean.mcminn@northwestern.edu OR seanpm92@gmail.com OR @shmcminn on Twitter
 
 **Class time**: 6pm-9pm, Wednesdays
 
@@ -12,27 +12,37 @@
 
 **Syllabus and assignments**: TKTK
 
-**Description**: The goal of this class is to give you a background for telling stories using data and technology as reporting tools. By the end of this class, you should be able to find datasets relevant to a story you're reporting, process and clean them up, use those datasets to answer questions, understand the limitations and caveats of a dataset, and tell a story using data.
+**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers. By the end of this course, you should:
+
+* Find datasets relevant to a story you're reporting
+* Process and clean data
+* Analyze and "interview" data to find a story within it
+* Visualize and present a story based on data
+* Speak the language of reporters and technologists who use data to tell stories
+* Identify common problems with data and think critically about its use in news reporting
+
+Much of this class (and its syllabus) is based on Rachel Shorey's Summer 2018 Digital Frameworks course.
+
 
 ## Policies
 
 ### Expectations
 
-* Come to class or let me know if you can't make it
-* Complete in-class exercises either in class or as homework due before the next class. Late assignments will not be accepted. They are in-class assignments, turning them in before the next class is already a one-week grace period.
+* Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise specified.
+* Complete in-class exercises either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Wednesdays, unless otherwise stated.
+   * Late assignments will only be accepted if you contact me **before** the class in which it was originally due. 
 * Submit assignments on github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class with at least 1 story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go.
-* Complete a final project, which will be a 800-1000 word story with graphics, based substantially on data. This includes a brief memo due halfway through the quarter giving me a status update about what you intend to focus on.
-* Unless otherwise specified, assignments including the final project should be written in complete sentences and paragraphs (not fragments, notes or bulletpoints)
+* Complete a final project, which will be a 800-1000 word story with graphics, based substantially on data. 
+* I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 
-Note that there will not be stand-alone homework outside of the in-class exercises which are due before the next class.
 
 ### Grading
 
 Your grade will be made up of three components:
 
 * 20%: Class attendance and participation, including presenting data stories when I call on you to do so
-* 50%: In-class assignments (if you do not finish them or do not make it to class, you need to do these as homework)
+* 50%: Assignments
 * 30%: Final project, including a midterm checkin
 
 ### Collaboration
