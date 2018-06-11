@@ -43,62 +43,77 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 Class slides are located here. TKTK
 
-**Class 1: Start here!** (April 4) [slides](https://docs.google.com/presentation/d/1w1KgKW5QawM-j1z4dM8_Cbt_LZufJ4UrO_OXu8E48zA/edit#slide=id.g29ce7ef821_0_83) 
-* Introductions
-* Data and visual stories, and what makes a good one
-* Overview of policies, syllabus and goals
-* Github and markdown
-* In-class assignment is [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment1.md).
+**Class 1: Start here!** (July 2)
+* Assessment quiz
+* What can data do
+* steps to a data story:
+   * find data
+   * clean data
+   * analyze/interview data
+   * present data
+* Learn how to critique data stories/vis
+* Kinds of data journalism
+* Introduce final project
+* **Assignment**: come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
-**Class 2: The lifecycle of a data story** (April 11) [slides](https://docs.google.com/presentation/d/13Kl7LbIRFM8mXHaxjCWG4NTORuZYAgz8k-w7Hxq8Uec/edit#slide=id.g369a654678_0_159)
-* Students to present data stories
-* Starting with a question
-* Finding the data
-* Interviewing the data
-* Discussion of final projects, details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment2.md)
+**Class 2: Finding data**
+* What are you looking for
+* Thinking critically about data
+* Making own database
+* intro to foia
+* **Assignment**: explain how you would compile an ideal database related to final project, compile first few rows (same as rachel's assignment)
 
-**Class 3: Collecting, cleaning, collaborating** (April 18)
-* Students to present data stories
-* Dealing with messy data
-* Collecting your own data
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment3.md)
+**Class 3: Cleaning data**
+* Excel
+* What makes a good data set
+* Formats
+* common pitfalls
+* **Assignment**: Find a dataset related to final project and clean it into just columns you want, making sure everything is standardized and usable
 
-**Class 4: Using a dataset** (April 25) [slides](https://docs.google.com/presentation/d/1KO-B4E-x4ccdqlEc7fizhLuDGojOiQlIkgB28LSbqPk/edit#slide=id.g38d3877eff_1_113)
-* Students to present data stories
-* Data formats
-* Spreadsheets! Example from class [here](https://docs.google.com/spreadsheets/d/1krtGpZJap99u1dZFlmnSYpNzUFCGn2n6OmpOYWOCvqk/edit#gid=0)
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment4.md)
+**Class 4: Stats for journalists**
+* What is regression/inference
+* Simple statistical terms
+* Example: Polling data
+* Robustness of averages
+* Machine learning
+* **Assignment**: Find story and/or visualization based on statistics (polling, sports player stats, etc) and critique the use of statistics
 
-**Class 5: A data example: reporting on campaign finance** (May 2)
-* Students present data stories
-* Why campaign finance
-* Digging into the data
-* In-class assignment: no assignment this week. But recall that you have to pitch your final project next week! If you have questions or ideas you want to run by me, I'll be around for a little while after class.
+**Class 5: Analyzing data** (May 2)
+* Excel
+* Stats for journalists
+* "Interviewing" data
+* Merging data w fusion tables or SQL
+* **Assignment**: "Interview" your data with three specific, interesting questions. Write SQL queries or Excel functions to get your answers, then write a sample headline/lede based on the most interesting of them
 
-**Class 6: Storytelling and the design process and final project pitches** (May 9)
-* Case study: The CBC Missing and Murdered Indigenous Women Project
-* Pitch session! Do a two-minute pitch of your final project. Final project details [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
-* No assignment!
+**Class 6: Data visualization**
+* How to make charts suck less
+* Color, size and shape
+* Chartbuilder
+* Mapping with Fusion tables
+* Chart critiques
+* **Assignment**: Finalize pitch for final story with Sean, complete tow data vis critiques
 
-**Class 7: Data visualization** (May 16) [slides](https://docs.google.com/presentation/d/1Le43W6Y5ZIzbJ9YTKyjO3rod29g5geqKG9XO1fNp7RA/edit)
-* Bad charts
-* Making better charts on deadline
-* In-class assignment [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/assignment5.md)
+**Presenting/storytelling with data**
+* Tableau
+* What is a data story vs an "infographic"?
+* Multiple story forms
+* Story critiques
+* **Assignment**: Sketch out concept for final story, including graphic/photo opportunities, possible interactivity
 
-**Class 8: Cryptography, security, hacking and data breaches** (May 23)
-* Guest: Nadja Popovich, NYT Climate team graphics editor
-* What are cryptography and encryption?
-* Personal security
-* Reporting on hacking and data breaches
-* In-class assignment tk
+**Class 8: Covering government with data**
+* lobbying
+* votes
+* members
+* campaign finance
+* FOIA
+* (maybe do panel discussion with guests?)
+* **Assignment**: Write a **400-word story with a data take on some news from the past month. 
 
-**Class 9: While I've got you here...** (May 30)
-A potpourri of things I wish reporters knew, including but not limited to:
-* The guts of the Internet (and how this helps you as a reporter or researcher)
-* Voting and elections data
-* tktk
-* In-class assignment tk
+**What the Hell is an API, and other questions I was too afraid to ask** 
+* A day to talk about the industry standard tools data reporters to use to do their jobs
+* Based on What the Hell is R https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/
+* **Assignment**: Work on final story
 
-**Class 10: Project presentations, jobs** (June 6)
-We'll all hear about your final project! Details about final projects [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
+**Bonus: Mapping, campaign finance and other things smart people know more about than I do**
+* I won't be here for the last class so ... ? 
+* **Extra credit assignment doing something** 
