@@ -78,7 +78,7 @@ Class slides are located here. TKTK
 * Machine learning
 * **Assignment**: Find story and/or visualization based on statistics (polling, sports player stats, etc) and critique the use of statistics
 
-**Class 5: Analyzing data** (May 2)
+**Class 5: Analyzing data** 
 * Excel
 * Stats for journalists
 * "Interviewing" data
