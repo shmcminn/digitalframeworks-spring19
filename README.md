@@ -10,8 +10,6 @@
 
 **Office hours**: By appointment
 
-**Syllabus and assignments**: TKTK
-
 **Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
@@ -127,3 +125,7 @@ Class slides are located here. TKTK
 **Bonus: Mapping, campaign finance and other things smart people know more about than I do**
 * I won't be here for the last class so ... ? 
 * **Extra credit assignment** File a publishable story (at least 400 words) or visualization based on something you learned in today's lesson. This can increase your grade by a maximum of 2% pts.
+
+### Final project
+
+Due by the final class will be a data-driven story of between 1,000 and 1,350 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
