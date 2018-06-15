@@ -88,7 +88,6 @@ Class slides are located here. TKTK
 
 **Class 5: Analyzing data** 
 * Excel
-* Stats for journalists
 * "Interviewing" data
 * Merging data w fusion tables or SQL
 * **Assignment**: "Interview" your data with three specific, interesting questions. Write SQL queries or Excel functions to get your answers, then write a sample headline/lede based on the most interesting of them
@@ -115,7 +114,7 @@ Class slides are located here. TKTK
 * campaign finance
 * FOIA
 * (maybe do panel discussion with guests?)
-* **Assignment**: Write a **400-word story with a data take on some news from the past month. 
+* **Assignment**: Write a 400-word story with a data take on some news from the past month. 
 
 **What the Hell is an API, and other questions I was too afraid to ask** 
 * A day to talk about the industry standard tools data reporters to use to do their jobs
