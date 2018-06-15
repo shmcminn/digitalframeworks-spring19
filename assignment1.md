@@ -14,7 +14,7 @@ Markdown is a markup language that plays particularly well with github, producin
 
 ## Assignment
 
-### to be submitted before the start of the next class
+### To be submitted before the start of the next class
 
 1. Create a Github account. Add your account name to this google sheet (tktktk) so I know where to find your homework.
 1. Create a repository called *digitalframeworks*. You will submit all your homework there.
