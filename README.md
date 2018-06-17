@@ -100,14 +100,7 @@ Class slides are located here. TKTK
 * Chart critiques
 * **Assignment**: Finalize pitch for final story with Sean, complete tow data vis critiques
 
-**Presenting/storytelling with data**
-* Tableau
-* What is a data story vs an "infographic"?
-* Multiple story forms
-* Story critiques
-* **Assignment**: Sketch out concept for final story, including graphic/photo opportunities, possible interactivity
-
-**Class 8: Covering government with data**
+**Class 7: Covering government with data**
 * lobbying
 * votes
 * members
@@ -116,14 +109,22 @@ Class slides are located here. TKTK
 * (maybe do panel discussion with guests?)
 * **Assignment**: Write a 400-word story with a data take on some news from the past month. 
 
-**What the Hell is an API, and other questions I was too afraid to ask** 
+**Class 8: Presenting/storytelling with data**
+* Tableau
+* What is a data story vs an "infographic"?
+* Multiple story forms
+* Story critiques
+* **Assignment**: Sketch out concept for final story, including graphic/photo opportunities, possible interactivity
+
+**Class 9: What the Hell is an API, and other questions I was too afraid to ask -- plus interviews** 
 * A day to talk about the industry standard tools data reporters to use to do their jobs
 * Based on What the Hell is R https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/
-* **Assignment**: Work on final story
+* Review each others' stories
+* Five-minute broadcast-style interviews
+* **Extra credit assignment**: TBD
 
-**Bonus: Mapping, campaign finance and other things smart people know more about than I do**
-* I won't be here for the last class so ... ? 
-* **Extra credit assignment** File a publishable story (at least 400 words) or visualization based on something you learned in today's lesson. This can increase your grade by a maximum of 2% pts.
+**Class 10: Bonus: Mapping, campaign finance and other things smart people know more about than I do**
+* I won't be here for the last class so ...  
 
 ### Final project
 
