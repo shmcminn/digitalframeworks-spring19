@@ -20,7 +20,7 @@ Which of these is a valid reason for FOIA officers to withhold all or part of do
 Document contains embarrasing and/or sensitive information about the current president's administration
 Document contains information not yet announced by the federal agency that wrote it
 Exoprting the document would require writing a programming query in a language like SQL or Python
-Document contains INSERT RIGHT ANSWER HERE
+Document contains private industry trade secrets
 
 Which of these tasks is genearlly NOT part of a data journalists' job?
 Converting data into PDFs
@@ -32,7 +32,7 @@ What kind of story would you be most likely to write from FEC data?
 A story on the press' coverage of the president
 A story on illegal campaign contributions by friends of senators
 A story on cell phone companies merging
-A story on illegal stock trading
+A story on cell phone companies merging
 
 Which of these is most likely to be a misleading data visualization?
 A line chart of stock prices compared to the S&P500
@@ -66,7 +66,6 @@ HTML/CSS/JS
 
 Which of these is the correct way to calculate a percentage change based on an old data point and a new data point?
 (new - old) / old
-(old - new) / new
 new / (new - old)
 old / (old - new)
 
