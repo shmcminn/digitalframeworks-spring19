@@ -10,7 +10,7 @@
 
 **Office hours**: By appointment
 
-**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers. By the end of this course, you should be able to:
+**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
 * Process and clean data
@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on Rachel Shorey's Summer 2018 Digital Frameworks course.
+Much of this class (and its syllabus) is based on Rachel Shorey's Spring 2018 Digital Frameworks course at Northwestern University.
 
 
 ## Policies
