@@ -4,7 +4,7 @@
 
 **Instructor**: Sean McMinn
 
-**Contact**: sean.mcminn@northwestern.edu OR @shmcminn on Twitter
+**Contact**: sean.mcminn@northwestern.edu OR [@shmcminn](http://www.twitter.com/shmcminn) on Twitter
 
 **Class time**: 6 p.m. - 9 p.m., Wednesdays
 
