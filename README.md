@@ -6,11 +6,11 @@
 
 **Contact**: sean.mcminn@northwestern.edu OR @shmcminn on Twitter
 
-**Class time**: 6pm-9pm, Wednesdays
+**Class time**: 6 p.m. - 9 p.m., Wednesdays
 
 **Office hours**: By appointment
 
-**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the thousands (millions?) of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
+**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the huge number of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
 * Process and clean data
