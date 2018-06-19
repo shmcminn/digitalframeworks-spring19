@@ -13,8 +13,8 @@
 * Final project
 * Class policies
 
-# Activity
+### Activity
 * Github/markdown training
 
-# Vote on how to spend end of classes
+### Vote on how to spend end of classes
 * [Link to Google form](https://bit.ly/2M0qnCu)
