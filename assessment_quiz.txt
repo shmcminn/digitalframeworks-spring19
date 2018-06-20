@@ -66,6 +66,7 @@ HTML/CSS/JS
 
 Which of these is the correct way to calculate a percentage change based on an old data point and a new data point?
 (new - old) / old
+(old - new) / new
 new / (new - old)
 old / (old - new)
 
