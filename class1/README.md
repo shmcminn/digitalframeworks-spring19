@@ -15,6 +15,7 @@
 
 ### Activity
 * Github/markdown training
+   * Put your repo link in [here](https://goo.gl/forms/1QJKymkcIUDYVGrN2)  
 
 ### Vote on how to spend end of classes
 * [Link to Google form](https://bit.ly/2M0qnCu)

@@ -41,7 +41,17 @@ Your grade will be made up of three components:
 
 * 20%: Class attendance and participation, including presenting data stories when I call on you to do so
 * 50%: Assignments
-* 30%: Final project, including a midterm checkin
+* 30%: Final project
+
+#### Grading scale:
+* A: publishable with minimal edits
+* B: publishable with significant edits
+* C: would need reporter’s revision to be published
+* D: unpublishable, even with edits 
+   * You can not get more than a D on an assignment if there are factual errors.
+* F: did not complete work as assigned
+
+
 
 ### Collaboration
 
