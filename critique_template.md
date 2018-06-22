@@ -2,7 +2,7 @@
 
 You'll use this template several times during the quarter to critique published reporting you find and to learn to think critically about data and visuals.
 
-This is almost entirely from [Pat Howe](https://twitter.com/pchowe?lang=en) at Cal Poly San Luis Obispo.
+This is almost entirely from [Alberto Cairo](https://twitter.com/albertocairo) at the University of Miami and [Pat Howe](https://twitter.com/pchowe?lang=en) at Cal Poly San Luis Obispo.
 
 ### Objective: Clarity and accuracy
 
