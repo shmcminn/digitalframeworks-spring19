@@ -43,7 +43,7 @@ Your grade will be made up of three components:
 * 50%: Assignments
 * 30%: Final project
 
-#### Grading scale:
+#### Assignment grading scale:
 * A: publishable with minimal edits
 * B: publishable with significant edits
 * C: would need reporter’s revision to be published
@@ -106,7 +106,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Chartbuilder and/or Datawrapper
 * Mapping
 * Chart critiques
-* **Assignment**: Finalize pitch for final story with Sean, complete tow data vis critiques
+* **Assignment**: Finalize pitch for final story with Sean, complete two data vis critiques
 
 **Class 7: Covering government with data**
 * Lobbying
@@ -114,7 +114,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Members of Congress
 * Campaign finance
 * FOIA
-* (maybe do panel discussion with guests?)
 * **Assignment**: Write an approximately 400-word story with a data take on some news from the past month. 
 
 **Class 8: Presenting/storytelling with data**
@@ -136,4 +135,4 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ### [Final project](finalproject.md)
 
-Due by the final class will be a data-driven story of between 1,000 and 1,350 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class will be a data-driven story of between 1,000 and 1,350 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
