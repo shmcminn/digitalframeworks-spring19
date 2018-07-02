@@ -77,14 +77,14 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Thinking critically about data
 * Making own database
 * Intro to FOIA
-* **Assignment**: Explain how you would compile an ideal database related to final project, compile first few rows
+* **Assignment**
 
 **Class 3: Cleaning data**
 * Excel
 * What makes a good data set
 * Formats
 * Common pitfalls
-* **Assignment**: Find a dataset related to final project and clean it into just columns you want, making sure everything is standardized and usable
+* **Assignment**
 
 **Class 4: Stats for journalists**
 * What is regression/inference
@@ -92,13 +92,13 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Robustness of averages
 * Machine learning/artificial intelligence in everyday terms
 * Example: Polling data
-* **Assignment**: Find story and/or visualization based on statistics (polling, sports player stats, etc) and critique the use of statistics
+* **Assignment**
 
 **Class 5: Analyzing data** 
 * Excel
 * "Interviewing" data
 * Merging data with Fusion Tables or SQL
-* **Assignment**: "Interview" a dataset with three specific, interesting questions. Write SQL queries or Excel functions to get your answers, then write a sample headline/lede based on the most interesting of them
+* **Assignment**
 
 **Class 6: Data visualization**
 * How to make charts suck less
@@ -106,7 +106,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Chartbuilder and/or Datawrapper
 * Mapping
 * Chart critiques
-* **Assignment**: Finalize pitch for final story with Sean, complete two data vis critiques
+* **Assignment**
 
 **Class 7: Covering government with data**
 * Lobbying
@@ -114,21 +114,21 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Members of Congress
 * Campaign finance
 * FOIA
-* **Assignment**: Write an approximately 400-word story with a data take on some news from the past month. 
+* **Assignment**
 
 **Class 8: Presenting/storytelling with data**
 * Tableau
 * What is a data story vs. an "infographic"?
 * Multiple story forms and what they're best for
 * Story critiques
-* **Assignment**: Sketch out concept for final story, including graphic/photo opportunities, possible interactivity
+* **Assignment**
 
 **Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus interviews** 
 * A day to talk about the industry standard tools data reporters to use to do their jobs
 * Based on What the Hell is R https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/
 * Review each others' final stories
 * Five-minute broadcast-style interviews
-* **Extra credit assignment**: TBD
+* **Extra credit assignment**
 
 **Class 10: Bonus: Mapping, campaign finance and other things smart people know more about than I do**
 * I won't be here for the last class so ...  
