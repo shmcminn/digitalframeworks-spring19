@@ -70,14 +70,14 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Learn how to critique data stories/visualizations
 * Kinds of data journalism
 * Introduce final project
-* **Assignment**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-summer18/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
 **Class 2: Finding data**
 * What are you looking for
 * Thinking critically about data
 * Making own database
 * Intro to FOIA
-* **Assignment**
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-summer18/blob/master/class2/assignment2.md)**: Plan your own dataset and collect first five rows
 
 **Class 3: Cleaning data**
 * Excel

@@ -9,7 +9,7 @@ Some great stories come out of reporters collecting their own datasets. Here are
 
 ## Assignment
 
-Think about an area you're interested in, and come up with a dataset you wish existed. Then submit the following:
+Think about an area you're interested in, or one you may do your final project on, and come up with a dataset you wish existed. Then submit the following:
 
 * A description of the question you're curious about, and an explanation about how this data could turn into a story. (Imagine this as your justification to your editor as to why this is worth your time)
 * A list of the things you want to know about any data point
