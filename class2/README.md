@@ -5,9 +5,7 @@
 ### Lecture
 
 * Government data
-
-#### Guest: CJ Ciaramella
-
+* Guest: CJ Ciaramella
 * Other data sources
 * Data types
 * Thinking critically about data
