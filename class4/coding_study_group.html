@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+
+</head>
+
+<body>
+
+	<h1>Digital Frameworks</h1>
+	<h2>Medill Summer 2018</h2>
+	<div id="myList1"></div>
+
+
+	<script>
+		var message = "hello DC";
+		console.log("hello world");
+		console.log(message);
+
+		var dcmessage = "teh declaration of independence"
+		var dcyear = 1776
+		var dcarray = [1776, 1787, 1865, 1945, 2008]
+		console.log(dcarray[0])
+
+		console.log(dcarray)
+
+		var dcobject = {"declaration" : 1776, "constitution" : 1787, "slavery" : 1865};
+
+		console.log(dcobject);
+		console.log(dcobject["constitution"]);
+
+		var medillStudents = [
+							{"name": "Sean", "shirt": "white", "age": 26}, 
+							{"name": "Minghe", "shirt": "black", "age": 13}, 
+							{"name": "Shaw", "shirt": "brown", "age": 18}
+							]
+
+		console.log(medillStudents)
+		console.log(medillStudents[1])
+		console.log(medillStudents[0]["shirt"])
+
+
+		for (i=0; i < medillStudents.length; i++) {
+			console.log(medillStudents[i])
+
+			var div = document.getElementById("myList1");
+			div.innerHTML = div.innerHTML + "<p style='font-size: " + medillStudents[i]["age"] + "px'>" + medillStudents[i]["name"] + "</p>"
+			//var text = document.createTextNode("<p>" + medillStudents[i]["name"] + "</p>");
+
+			//div.appendChild(text);
+
+			// document.getElementById("myList1").createTextNode(medillStudents[i])
+
+		}
+
+
+
+
+
+	</script>
+
+
+
+</body>
+</html>
