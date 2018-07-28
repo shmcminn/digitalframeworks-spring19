@@ -84,7 +84,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * What makes a good data set
 * Formats
 * Common pitfalls
-* **Assignment**
+* **[Assignment](class3/assignment3.md)**: Clean a dataset
 
 **Class 4: Stats for journalists**
 * What is regression/inference
@@ -92,7 +92,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Robustness of averages
 * Machine learning/artificial intelligence in everyday terms
 * Example: Polling data
-* **Assignment**
+* **[Assignment](class4/assignment4.md)**: Pitch final project story
 
 **Class 5: Analyzing data** 
 * Excel
@@ -124,6 +124,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **Assignment**
 
 **Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus interviews** 
+**THIS IS ON MONDAY AUG. 27 AT 6 P.M.**
 * A day to talk about the industry standard tools data reporters to use to do their jobs
 * Based on What the Hell is R https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/
 * Review each others' final stories

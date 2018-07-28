@@ -1,8 +1,8 @@
 # Final project details
 
 You must complete a final project for this class. The project has two components:
-1. A 1,000-word story based substantially on a dataset, due at or before the second to last class
-1. In the second-to-last class, a fellow student will interview you about the piece
+1. A 1,000-word story based substantially on a dataset, due by 6 p.m. on Monday, Aug. 27.
+1. In the second-to-last class (Aug. 27), a fellow student will interview you about the piece
 
 The 1,000-word piece should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
