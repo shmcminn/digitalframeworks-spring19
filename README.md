@@ -98,7 +98,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Excel
 * "Interviewing" data
 * Merging data with Fusion Tables or SQL
-* **Assignment**
+* **[Assignment](class5/assignment5.md)**: Interview a dataset
 
 **Class 6: Data visualization**
 * How to make charts suck less
