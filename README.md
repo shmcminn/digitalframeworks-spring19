@@ -106,14 +106,11 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Chartbuilder and/or Datawrapper
 * Mapping
 * Chart critiques
-* **Assignment**
 
-**Class 7: Covering government with data**
+**Class 7: Covering the federal government with data**
 * Lobbying
-* Votes
 * Members of Congress
 * Campaign finance
-* FOIA
 * **Assignment**
 
 **Class 8: Presenting/storytelling with data**
