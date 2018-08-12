@@ -111,7 +111,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Lobbying
 * Members of Congress
 * Campaign finance
-* **Assignment**
+* **[Assignment](class7/assignment7.md)**: Using federal databases, find a newsworthy story that hasn't been previously reported.
 
 **Class 8: Presenting/storytelling with data**
 * Tableau
