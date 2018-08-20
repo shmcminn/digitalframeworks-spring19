@@ -118,7 +118,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * What is a data story vs. an "infographic"?
 * Multiple story forms and what they're best for
 * Story critiques
-* **Assignment**
 
 **Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus interviews** 
 **THIS IS ON MONDAY AUG. 27 AT 6 P.M.**
