@@ -12,3 +12,4 @@ From the final project page:
 
 * Lecture: What the Hell is an API? (And Other Questions I Was Too Afraid to Ask) [LINK](https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/)
 * Take the [assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLScafbmqtws_zKvVR2M_ahyNRX8ipLrS04QIPsNDJpugXwaGog/viewform) one more time 
+* Discuss [extra credit assignment](extra-cred-assignment.md)
