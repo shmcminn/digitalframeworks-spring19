@@ -127,7 +127,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Five-minute broadcast-style interviews
 * **Extra credit assignment**
 
-**Class 10: Bonus: Mapping, campaign finance and other things smart people know more about than I do**
+**Class 10: Bonus: Web development, campaign finance and other things smart people know more about than I do**
 * I won't be here for the last class so ...  
 
 ### [Final project](finalproject.md)
