@@ -9,13 +9,10 @@
 * What you'll learn
 * What classes will be like
 * Assessment quiz
-    * [Link to Google form](https://docs.google.com/forms/d/e/1FAIpQLScafbmqtws_zKvVR2M_ahyNRX8ipLrS04QIPsNDJpugXwaGog/viewform?usp=sf_link)
+    * [Link to Google form](https://docs.google.com/forms/d/e/1FAIpQLSdedIUAUMuAeiMLaqgDMY5AEdxZnw70r2VzO-n3goUja-pWdQ/viewform)
 * Final project
 * Class policies
 
 ### Activity
 * Github/markdown training
-   * Put your repo link in [here](https://goo.gl/forms/1QJKymkcIUDYVGrN2)  
-
-### Vote on how to spend end of classes
-* [Link to Google form](https://bit.ly/2M0qnCu)
+   * Put your repo link in [here](https://docs.google.com/forms/d/e/1FAIpQLSdD2Z-xjCkrRAqSs8jb-UmiBXXWTnKVWg55rhLVvmn0YkcuQw/viewform)  

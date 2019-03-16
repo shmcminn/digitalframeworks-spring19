@@ -1,4 +1,4 @@
-# Digital Frameworks Summer 2018
+# Digital Frameworks Spring 2019
 
 ## Details
 
@@ -6,11 +6,11 @@
 
 **Contact**: sean.mcminn@northwestern.edu OR [@shmcminn](http://www.twitter.com/shmcminn) on Twitter
 
-**Class time**: 6 p.m. - 9 p.m., Wednesdays
+**Class time**: 6 p.m. - 9 p.m., Tuesdays
 
 **Office hours**: By appointment
 
-**Description**: Reporters find news all the time talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the huge number of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
+**Description**: Reporters find news every day by talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the huge number of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
 * Process and clean data
@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on Rachel Shorey's Spring 2018 Digital Frameworks course at Northwestern University.
+Much of this class (and its syllabus) is based on [Rachel Shorey's Spring 2018 Digital Frameworks](https://github.com/rshorey/digitalframeworks-spring18) course at Northwestern University.
 
 
 ## Policies
@@ -27,11 +27,11 @@ Much of this class (and its syllabus) is based on Rachel Shorey's Spring 2018 Di
 ### Expectations
 
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed to.
-* Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Wednesdays, unless otherwise stated.
+* Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class with at least one story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
-* Complete a final project, which will be a 1,000- to 1,350-word story with graphics, based substantially on data. 
+* Complete a final project, which will be a 1,000- to 1,350-word story with graphic proposals, based substantially on data. 
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 
 
@@ -47,8 +47,8 @@ Your grade will be made up of three components:
 * A: publishable with minimal edits
 * B: publishable with significant edits
 * C: would need reporter’s revision to be published
+   * You can not get more than a C on an assignment if there are factual errors.
 * D: unpublishable, even with edits 
-   * You can not get more than a D on an assignment if there are factual errors.
 * F: did not complete work as assigned
 
 
@@ -73,63 +73,23 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **[Assignment](https://github.com/shmcminn/digitalframeworks-summer18/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
 **Class 2: Finding data**
-* What are you looking for
-* Thinking critically about data
-* Making own database
-* Intro to FOIA
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-summer18/blob/master/class2/assignment2.md)**: Plan your own dataset and collect first five rows
 
 **Class 3: Cleaning data**
-* Excel
-* What makes a good data set
-* Formats
-* Common pitfalls
-* **[Assignment](class3/assignment3.md)**: Clean a dataset
 
 **Class 4: Stats for journalists**
-* What is regression/inference
-* Simple statistical terms
-* Robustness of averages
-* Machine learning/artificial intelligence in everyday terms
-* Example: Polling data
-* **[Assignment](class4/assignment4.md)**: Pitch final project story
 
 **Class 5: Analyzing data** 
-* Excel
-* "Interviewing" data
-* Merging data with Fusion Tables or SQL
-* **[Assignment](class5/assignment5.md)**: Interview a dataset
 
 **Class 6: Data visualization**
-* How to make charts suck less
-* Color, size and shape and other basic design principles
-* Chartbuilder and/or Datawrapper
-* Mapping
-* Chart critiques
 
 **Class 7: Covering the federal government with data**
-* Lobbying
-* Members of Congress
-* Campaign finance
-* **[Assignment](class7/assignment7.md)**: Using federal databases, find a newsworthy story that hasn't been previously reported.
 
 **Class 8: Presenting/storytelling with data**
-* Tableau
-* What is a data story vs. an "infographic"?
-* Multiple story forms and what they're best for
-* Story critiques
 
-**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus interviews** 
-**THIS IS ON MONDAY AUG. 27 AT 6 P.M.**
-* A day to talk about the industry standard tools data reporters to use to do their jobs
-* Based on What the Hell is R https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/
-* Review each others' final stories
-* Five-minute broadcast-style interviews
-* **Extra credit assignment**
+**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** 
 
-**Class 10: Bonus: Web development, campaign finance and other things smart people know more about than I do**
-* I won't be here for the last class so ...  
+**Class 10: Bonus: Things smart people know more about than I do** 
 
 ### [Final project](finalproject.md)
 
-Due by the second-to-last class (on Aug. 27) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class (on June 4) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
