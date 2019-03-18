@@ -59,7 +59,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ## Syllabus
 
-**Class 1: Start here!** (July 2)
+**Class 1: Start here!** (April 2)
 * Assessment quiz
 * What can data do
 * Steps to a data story:
