@@ -60,7 +60,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 ## Syllabus
 
 **Class 1: Start here!** (April 2)
-* Assessment quiz
+* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSdedIUAUMuAeiMLaqgDMY5AEdxZnw70r2VzO-n3goUja-pWdQ/viewform)
 * What can data do
 * Steps to a data story:
    * Find data
@@ -70,7 +70,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Learn how to critique data stories/visualizations
 * Kinds of data journalism
 * Introduce final project
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-summer18/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
 **Class 2: Finding data**
 

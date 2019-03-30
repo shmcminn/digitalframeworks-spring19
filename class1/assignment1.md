@@ -16,17 +16,17 @@ Markdown is a markup language that plays particularly well with github, producin
 
 ### To be submitted before the start of the next class
 
-1. Create a Github account. Add your account name to this [google sheet](https://docs.google.com/forms/d/e/1FAIpQLSecIde_f94gBxx71HizXG4Cyk3h3br18pgC8ZYOLcGmRYdk3g/viewform?usp=sf_link) so I know where to find your homework.
+1. Create a Github account. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLSdD2Z-xjCkrRAqSs8jb-UmiBXXWTnKVWg55rhLVvmn0YkcuQw/viewform) so I know where to find your homework.
 1. Create a repository called *digitalframeworks-summer2018*. You will submit all your homework there.
 2. Create a new file called assignment1.md
 2. Think about two story ideas you would want to do your final project on. They can be broad for now, but the quicker you get to a specific idea, the easier it will be to complete further assignments. Think about specific questions you would want to ask that data can help you find an answer to. For example:
-   * For story about campaign finance: How many PACs spend more on employees than they do giving to candidates?
-   * For story on the World Cup: Do teams with players who have competed before have a better success rate than those who don't?
+   * For a story about campaign finance: How many PACs spend more on employees than they do giving to candidates?
+   * For a story on baseball: Do teams that make the playoffs do better on opening day the following year?
 1. Write approximately 100 words telling me about each story idea, with at least one specific question for each you think you can answer with data.
-1. For each idea, find one story from the past year that has a data component somewhat related to your pitch. It can be a visual, graphic, video or text story.
-2. Critique the story [following this template](https://github.com/shmcminn/digitalframeworks-spring18/blob/master/critique_template.md) in your markdown file. Include a hyperlink (written as 
+1. For each idea, find one published story from the past year that has a data component related to your pitch. It can be a visual, graphic, video or text story.
+2. Critique the story [following this template](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/critique_template.md) in your markdown file. Include a hyperlink (written as 
 `[link text](http://www.linkurl.com)`) to the original story.
-1. Include at least the following features in your writeup, to show you know how to use markdown:
+1. Include at least one of the following features in your writeup, to show you know how to use markdown:
    * A heading
    * A list or table
 1. Commit this assignment in your digitalframeworks repository.
