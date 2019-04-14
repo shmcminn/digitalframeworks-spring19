@@ -16,4 +16,4 @@
 
 ### Resources
 
-* Last year's speaker [CJ Ciaramella on FOIA](How to get public records.pptx) 
+* Last year's speaker [CJ Ciaramella on FOIA](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class2/How%20to%20get%20public%20records.pptx?raw=true) 
