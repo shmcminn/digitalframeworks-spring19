@@ -73,9 +73,18 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
 **Class 2: Finding data** (April 16)
+* Government data
+* Guest: George Levines
+* Other data sources
+* Data types
+* Thinking critically about data
 * Guest speaker: George Levines, CQ Roll Call
 
 **Class 3: Cleaning data**
+- Share data stories
+- Cleaning overview
+- Five cleaning activities done with partners
+- Advanced cleaning techniques using Sublime Text and Excel
 
 **Class 4: Stats for journalists**
 
