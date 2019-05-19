@@ -106,4 +106,4 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ### [Final project](finalproject.md)
 
-Due by the second-to-last class (on June 4) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class (on June 11) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
