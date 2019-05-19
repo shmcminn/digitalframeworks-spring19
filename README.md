@@ -79,16 +79,20 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Data types
 * Thinking critically about data
 * Guest speaker: George Levines, CQ Roll Call
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class2/assignment2.md)**: Compile own dataset
 
 **Class 3: Cleaning data**
 - Share data stories
 - Cleaning overview
 - Five cleaning activities done with partners
 - Advanced cleaning techniques using Sublime Text and Excel
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class3/assignment3.md)**: Clean a messy dataset
 
 **Class 4: Stats for journalists**
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class4/assignment4.md)**: Pitch a story
 
 **Class 5: Analyzing data** 
+* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class5/assignment5.md)**: 3 interesting questions to analyze a dataset
 
 **Class 6: Data visualization**
 
