@@ -95,6 +95,8 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class5/assignment5.md)**: 3 interesting questions to analyze a dataset
 
 **Class 6: Data visualization**
+Guest speaker: [Joe Fox, The Washington Post](https://twitter.com/joemfox)
+* **Assignment**: Work on final project
 
 **Class 7: Covering the federal government with data**
 
