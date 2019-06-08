@@ -1,7 +1,9 @@
-# Class 9, Aug. 27
+# Class 9, June 11
 
 ### Agenda
 
+* What the Hell is an API
+* Watch example data interview: [LINK](https://www.youtube.com/watch?v=eqb-iMDNXro)
 * Choose partners, swap stories
 * Read stories and come up with interview questions
 * Conduct interviews 
