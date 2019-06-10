@@ -99,6 +99,7 @@ Guest speaker: [Joe Fox, The Washington Post](https://twitter.com/joemfox)
 * **Assignment**: Work on final project
 
 **Class 7: Covering the federal government with data**
+* **[Assignment 7](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class7/assignment7.md)**: Public records story
 
 **Class 8: Presenting/storytelling with data**
 
